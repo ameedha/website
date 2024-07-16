@@ -1,0 +1,16 @@
+.support_container {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 40 px;
+}
+
+.support_container h1 {
+  font-size: 32 px;
+  margin-top: 30 px;
+}
+.support_container p {
+  font-size: 18 px;
+  margin-bottom: 20 px;
+}

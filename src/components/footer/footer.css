@@ -1,0 +1,35 @@
+.footer {
+  padding: 50px 0px;
+  background: #eeeaff;
+  width: 100%;
+  margin-top: auto;
+}
+.footer_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  column-gap: 2rem;
+  background: #eeeaff;
+}
+.foot-box {
+  width: 30%;
+}
+.foot-box p {
+  line-height: 1.2rem;
+  margin-top: 20px;
+}
+.footer_title {
+  font-size: 1.2rem;
+  margin-top: 20px;
+  margin-left: 35px;
+}
+.footer-item li {
+  line-height: 28px;
+  color: var(--heading color);
+}
+.footer-item li a {
+  cursor: pointer;
+}
+.footer-item li a:hover {
+  color: var(--primary-color);
+}
